@@ -1,4 +1,4 @@
-# Trigger-Word-Classification
+# Trigger-Word-Detection
 * Trigger word detection is the technology that allows devices like Amazon Alexa, Google Home, Apple Siri, and Baidu DuerOS to wake up upon hearing a certain word.  
 * Developed a deep learning model for Trigger Word Detection
 * For this project, our trigger word will be "Activate." Every time it hears word "activate," it will make a "chiming" sound.  
